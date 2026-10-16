@@ -34,6 +34,9 @@ Examples - [Link](https://www.eraser.io/examples)
 * [Excalidraw](https://excalidraw.com/) (Freemium, Open Source, Hand drawn, Ease of use - Easy, Visual Appearance - Hand-drawn).  
 Examples - [Link]()
 
+* [SimpleDiagrams](https://simplediagrams.com/) (Paid, Closed Source, Hand drawn, Ease of use - Easy, Visual Appearance - Hand-drawn).
+Examples - [Link](https://simplediagrams.com/)
+
 * [PlantUML](https://plantuml.com/) (Free, Open Source, Diagram as code, Ease of use - Intermediate, Visual Appearance - Outdated)  
 Examples - [Link](https://plantuml.com/), [Link](https://real-world-plantuml.com/) 
 
